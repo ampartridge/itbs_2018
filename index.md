@@ -6,7 +6,7 @@ No previous experience with brain stimulation techniques is required to attend, 
 
 ## Schedule
 
-The final schedule will be uploaded here before the workshop.
+The final schedule will be available here before the workshop.
 
 ## Location and registration
 
@@ -28,9 +28,9 @@ CF24 4HQ
 
 There are no attendance fees, but places will be allocated on a first-come-first-served basis. 
 
-## Slides
+## Materials
 
-Slides will be available here before the workshop.
+Slides and any other relevant materials will be available here after the workshop.
 
 ## Contact details
 

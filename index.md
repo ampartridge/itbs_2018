@@ -1,8 +1,6 @@
 ## Welcome to the CUBRIC Introduction to Brain Stimulation Workshop - 5 October 2018
 
-Cardiff University Brain Research Imaging Centre (CUBRIC) is holding a free one-day Introduction to Brain Stimulation workshop on October 5th 2018.
-
-This workshop is focussed on non-invasive human brain stimulation techniques, specifically, transcranial magnetic stimulation (TMS) and transcranial electrical stimulation (TES). The instructors  will provide a basic introduction to these versatile methods and how they can be used to investigate the causal links between brain and behaviour in many contexts. The workshop aims to be very practical, including hands-on demonstrations of the methods, and open discussions where you can share ideas and ask any questions you have. The full schedule can be found below.
+The workshop is focussed on non-invasive human brain stimulation techniques, specifically, transcranial magnetic stimulation (TMS) and transcranial electrical stimulation (TES). The instructors  will provide a basic introduction to these versatile methods and how they can be used to investigate the causal links between brain and behaviour in many contexts. The workshop aims to be very practical, including hands-on demonstrations of the methods, and open discussions where you can share ideas and ask any questions you have. The full schedule can be found below.
 
 No previous experience with brain stimulation techniques is required to attend, lunch is provided,  and the workshop is open to Cardiff University postgraduates and staff from PSYCH, MEDIC, BIOSI & HCARE schools.
 

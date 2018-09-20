@@ -2,10 +2,13 @@
 
 Cardiff University Brain Research Imaging Centre (CUBRIC) is organising a free one-day Introduction to Brain Stimulation workshop on October 5th 2018.
 
-No previous experience with brain stimulation techniques is required to attend and the workshop is open to Cardiff University postgraduates and staff from PSYCH, MEDIC, BIOSI & HCARE.
+The workshop is focussed on non-invasive human brain stimulation techniques - transcranial magnetic stimulation and transcranial electrical stimulation. 
+
+No previous experience with brain stimulation techniques is required to attend and the workshop is open to Cardiff University postgraduates and staff from PSYCH, MEDIC, BIOSI & HCARE schools.
 
 ## Schedule
 
+You can find the final schedule [here]()
 
 ## Location and registration
 
@@ -21,15 +24,15 @@ CF24 4HQ
 [Prof Chris Chambers](https://www.cardiff.ac.uk/people/view/133632-chambers-chris)
 [Dr Dave McGonigle](https://www.cardiff.ac.uk/people/view/1156531-mcgonigle-david)
 [Sophie Esterer](https://www.cardiff.ac.uk/people/research-students/view/1185234-esterer-sophie)
-[Adam Partridge](https://www.cardiff.ac.uk/people/)
+[Adam Partridge](https://www.cardiff.ac.uk/people/view/1273362-)
 
 ## Fees
 
-There are no attendance fees, but places are limited so will be allocated on a first-come-first-served basis.
+There are no attendance fees, but places will be allocated on a first-come-first-served basis. 
 
 ## Slides
 
-Slides will be uploaded here directly following the workshop.
+Slides will be available here directly following the workshop.
 
 ## Contact details
 

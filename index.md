@@ -2,9 +2,9 @@
 
 Cardiff University Brain Research Imaging Centre (CUBRIC) is holding a free one-day Introduction to Brain Stimulation workshop on October 5th 2018.
 
-This workshop is focussed on non-invasive human brain stimulation techniques - specifically transcranial magnetic stimulation and transcranial electrical stimulation. The workshop will provide a basic introduction to these methods and how they can be used to investigate the links between brain and behaviour. The workshop aims to be very practical, including hands-on practical demonstrations of the methods, and open discussions where you can ask any questions you have.
+This workshop is focussed on non-invasive human brain stimulation techniques, specifically, transcranial magnetic stimulation (TMS) and transcranial electrical stimulation (TES). The instructors  will provide a basic introduction to these versatile methods and how they can be used to investigate the causal links between brain and behaviour in many contexts. The workshop aims to be very practical, including hands-on demonstrations of the methods, and open discussions where you can share ideas and ask any questions you have. The full schedule can be found below.
 
-No previous experience with brain stimulation techniques is required to attend and the workshop is open to Cardiff University postgraduates and staff from PSYCH, MEDIC, BIOSI & HCARE schools.
+No previous experience with brain stimulation techniques is required to attend, lunch is provided,  and the workshop is open to Cardiff University postgraduates and staff from PSYCH, MEDIC, BIOSI & HCARE schools.
 
 ## Schedule
 
@@ -12,7 +12,7 @@ The final schedule will be uploaded here before the workshop.
 
 ## Location and registration
 
-The workshop will take place at CUBRIC, seminar room 2 (top floor). Please report to CUBRIC reception and sign in when you arrive. Workshop registration is separate and will begin at 8:30AM outside seminar room 2 and the introductory lecture will begin at 9AM. See [here](https://www.cardiff.ac.uk/visit/map) for a campus map.
+The workshop will take place at CUBRIC, seminar room 2 (top floor). Please report to CUBRIC reception and sign in when you arrive. Workshop registration is separate from signing in to CUBRIC and will begin at 8:30AM outside seminar room 2. The introductory lecture will begin at 9AM. See [here](https://www.cardiff.ac.uk/visit/map) for a campus map.
 
 Cardiff University Brain Imaging Research Centre (CUBRIC),
 Maindy Road,
@@ -36,4 +36,4 @@ Slides will be available here before the workshop.
 
 ## Contact details
 
-For any questions regarding the workshop, please contact [Adam Partridge](PartridgeA2@cardiff.ac.uk).
+For any questions regarding the workshop, please contact [Adam Partridge](https://www.cardiff.ac.uk/people/view/1273362-).

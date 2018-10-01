@@ -10,7 +10,7 @@ The final schedule will be available here before the workshop.
 
 ## Location and registration
 
-The workshop will take place at CUBRIC, seminar room 2 (top floor). Please report to CUBRIC reception and sign in when you arrive. Workshop registration is separate from signing in to CUBRIC and will begin at 8:30AM outside seminar room 2. The introductory lecture will begin at 9AM. See [here](https://www.cardiff.ac.uk/visit/map) for a campus map.
+The workshop will take place at CUBRIC, seminar room 2 (top floor). Please report to CUBRIC reception and sign in when you arrive. Workshop registration is separate from signing in to CUBRIC and will begin at 8:45AM outside seminar room 2. The introductory lecture will begin at 9:30AM. See [here](https://www.cardiff.ac.uk/visit/map) for a campus map.
 
 Cardiff University Brain Imaging Research Centre (CUBRIC),
 Maindy Road,

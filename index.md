@@ -6,7 +6,21 @@ No previous experience with brain stimulation techniques is required to attend, 
 
 ## Schedule
 
-The final schedule will be available here before the workshop.
+| Tables        |                                                 |
+| ------------- |------------------------------------------------ |
+| 08:45         | Registration opens                              |
+| 09:15 - 09:30 | Tea/Coffee                                      |
+| 09.30 - 09.40 | Welcome (CC)                                    |
+| 09.40 - 10.30	| Transcranial Electrical Stimulation (DM/SE)     |
+| 10.30 - 10.40	| Tea/Coffee                                      |
+| 10.40 - 11.30	| Transcranial Magnetic Stimulation (CC/AP)       |
+| 11.30 - 12.15	| Open Discussion                                 |
+| 12.15 - 13.00	| Lunch (provided)                                |
+| 13.00 - 13.30	| Lab tour (AP)                                   |
+| 13.30 - 14.30	| TMS Practical Group A / TES Practical Group B   |
+| 14.30 - 15.30	| TMS Practical Group B / TES Practical Group A   |
+| 15.30 - 15.40	| Tea/Coffee                                      |
+| 15.40 - 16.30	| Open Discussion, Future Directions and Close    |
 
 ## Location and registration
 

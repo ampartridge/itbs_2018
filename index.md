@@ -6,7 +6,6 @@ No previous experience with brain stimulation techniques is required to attend, 
 
 ## Schedule
 
-| Tables        |                                                 |
 | ------------- |------------------------------------------------ |
 | 08:45         | Registration opens                              |
 | 09:15 - 09:30 | Tea/Coffee                                      |

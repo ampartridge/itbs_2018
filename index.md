@@ -43,11 +43,11 @@ There are no attendance fees, but places will be allocated on a first-come-first
 
 ## Materials
 
-[TES Introduction - Dave McGonigle](https://github.com/ampartridge/itbs_2018/blob/master/materials/TES_intro_DM.pptx)
-[TES Study Design - Sophie Esterer](https://github.com/ampartridge/itbs_2018/blob/master/materials/TES_methods_SE.pptx)
-[TMS Introduction - Chris Chambers](https://github.com/ampartridge/itbs_2018/blob/master/materials/TMS_intro_CC.pptx)
-[TMS Methods (and More) - Adam Partridge](https://github.com/ampartridge/itbs_2018/blob/master/materials/TMS_methods_AP.pdf)
-[Open Discussion and Wrap-up slides](https://github.com/ampartridge/itbs_2018/blob/master/materials/Discussion_slides_CC.pptx)
+- [TES Introduction - Dave McGonigle](https://github.com/ampartridge/itbs_2018/blob/master/materials/TES_intro_DM.pptx)
+- [TES Study Design - Sophie Esterer](https://github.com/ampartridge/itbs_2018/blob/master/materials/TES_methods_SE.pptx)
+- [TMS Introduction - Chris Chambers](https://github.com/ampartridge/itbs_2018/blob/master/materials/TMS_intro_CC.pptx)
+- [TMS Methods (and More) - Adam Partridge](https://github.com/ampartridge/itbs_2018/blob/master/materials/TMS_methods_AP.pdf)
+- [Open Discussion and Wrap-up slides](https://github.com/ampartridge/itbs_2018/blob/master/materials/Discussion_slides_CC.pptx)
 
 ## Contact details
 
